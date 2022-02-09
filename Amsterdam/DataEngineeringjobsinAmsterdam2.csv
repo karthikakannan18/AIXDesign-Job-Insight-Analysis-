@@ -1,0 +1,151 @@
+,title,company,salary,summary
+0,Customer Data Engineer,Matrixian Group,€25 per uur,"Knowledge of data modeling and data warehousing concepts.Collaborate with domain experts, analysts and data scientists to solve data challenges."
+1,Data Engineer - Banking,CGI Inc,,Design and build modern data pipelines and data streams.Design and build data service APIs.Opportunities for leveraging Microsoft Azure data and analytics…
+2,Data Engineer,Klue,€65.000 - €110.000 per jaar,We’re a team of highly skilled software engineers and data scientists based out of Amsterdam and Vancouver.A set of automated pipelines for data collection and…
+3,nieuwData Engineer,Harver,,"Collaborate with data engineers, data scientists, and product management teams for the design, delivery and maintenance of our ML applications;"
+4,Data Engineer,KPMG,€30 per uur,As an Data Engineer you will play a vital role in the digitizing the audit through in-depth data understanding and data preparation to support the auditor's…
+5,Data Center Engineer,Adyen,,"Ensuring repeatability across our global data centers.Work on various projects, ranging from rolling out completely new installations to maintaining current…"
+6,nieuwSenior Data Engineer,Mollie,,"You will support our software developers, data analysts, and data scientists on data initiatives and will create standardized blueprints to enable them to…"
+7,Junior Data Engineer,Accenture,,"You will support software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery…"
+8,Data Engineer (Scala),CarNext.com,,"Contribute to designing data models.You’re an experienced Data Engineer with strong Scala and PySpark skills, who loves to build the best data pipeline and…"
+9,Data Engineer,ChargePoint,,"Your job will be to augment the data from vehicles and charge stations with external data sources (weather, altitude, traffic) and support the Data Scientist in…"
+10,Scientific data engineer,Vrije Universiteit Amsterdam,€5.211 per maand,"They work for example with administrative or commercial data, media content, historical and archival data, biometric data, and geospatial data."
+11,"nieuwFPGA Engineer to 160,000 Euros",BizTek Recruitment Ltd,€80.000 per jaar,4+ years of experience working as a FPGA/ASIC design engineer.This proprietary trading company operates in Real Time dealing with huge quantities of data and…
+12,Data Center Engineer,Optiver,,"Installing and cabling switches, servers, and appliances in our on-site data center.Taking pride in maintaining a consistent and clean cable management…"
+13,Data Engineer,HEMA,,"Experience in building data pipelines to collect, transform, and load data from various sources (e.g. REST, Kafka) into data lakes and/or databases."
+14,Data QA Engineer,VanMoof,,Providing a high level of data quality awareness across multiple staff profiles e.g. data engineers and data analysis from teams across the company.
+15,Cloud Engineer,Quin,€85.000 per jaar,You bring a broad interest in data security and data protection and you’re not afraid to coach others on these topics.Help us build the future of healthcare.
+16,nieuwResearch Engineer Digital Data Donation,Universiteit van Amsterdam,€5.230 per maand,It is based on individuals’ rights to download and port their data from any organization which stores user data.Research Engineer Digital Data Donation.
+17,Azure Data Engineer,MSF-Holland,€3.488 - €4.980 per maand,"As an Azure data engineer at MSF you will be responsible for unlocking, structuring and preparing data for numerous stakeholders."
+18,Data Engineer,Suitsupply,,Collaborate with other data engineers and analysts to provide solutions tailored to business stakeholders needs.This job might be for you if you have:
+19,Data Engineer,Sam Media,,Work with data analysts and data scientists to strive for greater functionality of our data systems.Improve our data ingestion platforms.
+20,Junior Data Engineer,IntoData,,Als junior data engineer ben je flexibel en communicatief.Als junior data engineer kom je op verschillende plaatsen terecht:Wat wij van jou vragen.
+21,Data Engineer,SAMBA TV,,"As data is ultimately our business, you will not only work on our pipeline jobs, which process and deliver data at scale, but must truly get deep with that data…"
+22,Data Engineer,Miele-X,,At least 5 years experience as a data engineer.Good knowledge of data warehousing.Good knowledge of data engineering standards.To as many people as possible.
+23,nieuwDATA ANALIST,SnelStart,€2.645 - €4.848 per maand,"Nadat de data is opgeleverd door onze data engineers ben jij, samen je collega-data analisten, verantwoordelijk voor het analyseren, presenteren en voorspellen…"
+24,nieuwProcess Engineer,Bluewater Energy Services,,"Computer literacy for relevant process simulation programs, discipline calculations, document processing, spreadsheets and data management."
+25,"Staff Manufacturing Engineer, Data Centers",Google,,We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them.
+26,Data Engineer,Lemonade Insurance Company,,"At least 3 years of experience in data engineering in the big data domain.Experience building and optimizing data pipelines, architecture, and data sets."
+27,Junior HSE Engineer,Fluor Corporation,,"Participate in surveys, audits, evaluations, inspections, and investigations of incidents and activities to monitor and track HSE standards, programs and goals…"
+28,AWS Data Engineer,PVH,,"Develop, maintain and optimize the data lake for data retrieval, storage and distribution within and across other data platforms and/or applications."
+29,Data Engineer,Young Mavericks,€3.200 - €4.000 per maand,Als data engineer vervul je een belangrijke rol in de groei van onze organisatie.Als data engineer bij Young Mavericks werk je aan opdrachten voor…
+30,Data Engineer,De Nederlandsche Bank,€3.300 - €5.500 per maand,Als Data engineer lever je een bijdrage aan de implementatie van nieuwe datamodellen en functionaliteit om de data te kunnen bewerken.
+31,DATA ENGINEER,de Bijenkorf,,Wij zoeken allereerst data enthousiastelingen.Als Junior Data Engineer bij de Bijenkorf word je onderdeel van één van de grootste en meest data-geïnformeerde…
+32,Data Engineer,CareXS,,Work with domain experts to assist with the creation of their data products and support their data needs.Design and implement scalable data pipelines while…
+33,Senior Data Engineer,WeTransfer,,"Design reliable data ingestion and transform pipelines that can handle large data volumes.Build and maintain our observability data stack, so data is delivered…"
+34,nieuwDATA ENGINEER: Real Time Financial Trading Systems,BizTek Recruitment Ltd,€160.000 per jaar,"Working closely with Quantitative Traders and Fundamental Analysts, you will ultimately be responsible for data availability.BONUS UP TO 100% of Basic!"
+35,Backend Engineer,Klue,€65.000 - €110.000 per jaar,"Specifically, we build an ecosystem of microservices and data pipelines to automatically extract insights about competitors from public and internal data…"
+36,Data Engineer,Bovemij,,"Het verzamelen en transformeren van data;Van verzekeringen tot financieringen, van data tot online portalen.Het team bestaat uit 7 medewerkers en samen ben je…"
+37,nieuwData Scientist,APG,€5.956 per maand,"Doorontwikkelen van de data science capability.Deze multidisciplinaire product teams bevatten afhankelijk van het product engineers, testers, metadata…"
+38,Data Engineer,Victa,,Als Data Engineer houd jij je bezig met de implementatie van (complexe) data blending en data preparation trajecten.
+39,Data Engineer,Sentia,,Are you the one that creates the needed scripts and API calls to gather the data into a data lake; and builds report or dashboards to help out your colleagues?
+40,Data Engineer,Bestseller,,"On a typical day, our data engineers are developing new integrations in python, provisioning infrastructure via terraform, writing custom Airflow operators and…"
+41,Senior Data Engineer,APG,€7.220 per maand,Ten minste vijf jaar aantoonbare werkervaring met data modelling en data querying.In deze functie richt je je vooral op de ontwikkeling van data pipelines voor…
+42,Azure Data Engineer,Artsen Zonder Grenzen,,"As an Azure data engineer at MSF you will be responsible for unlocking, structuring and preparing data for numerous stakeholders."
+43,Data Engineer - Fintax,ABN AMRO Bank,,You are data savvy and have experience in data engineering.You are proficient in technical data modeling.You are an experienced designer of data solutions.
+44,QA Engineer | Medische branche | Data,Layer,€50.000 per jaar,"Als stack gebruikt dit bedrijf Angular, Reactjs , SQL en voor data en BI Python.Dit bedrijf heeft als doel ziekenhuizen en de medische branche te helpen met…"
+45,nieuwDev Engineer,ING,,"Depending in which squad (collection, processing or presenting layer) the team is responsible for designing, developing, delivering, testing and maintaining…"
+46,Big Data organisatie | Infrastructure Engineer,Layer,€75.000 per jaar,Je zal werkzaam zijn in een team van 7 engineers.Hiervan zijn er al drie senior engineers bijna 30 jaar in dienst.
+47,Group Data Engineer,Stage Entertainment,,"Act as point of contact with other data-oriented functions (e.g., CRM, digital marketing) to share data and ensure campaign response data is being socialized…"
+48,nieuwQEHS Engineer (Launch),Syncreon,,Gather data from customer and internal sources as input for problem solving and communicate/report to appropriate personnel.Willingness to travel in EMEA.
+49,Software & Data engineer Artificiële Intelligentie (AI) Infr...,Amsterdam UMC,€2.966 - €4.707 per maand,1 dag per week (vrijdag’s) werk je samen met andere data scientist & data engineers binnen het Data Science Center.Waar en met wie werk je samen.
+50,nieuwNetwork Engineer,ServiceNow,,"Perform ongoing analysis of the data in CMDB and the monitoring systems to ensure hygiene, alert thresholds, and validate alarms are present in the NOC Console."
+51,Transmissions Engineer,Disney Streaming,,"Some knowledge of elastic search, real-time analytics/visualizations or similar data analytic tools.Engineers also monitor and analyze the delivery of all A/V…"
+52,nieuwOn-Board Computer and Data Systems Engineer,HE Space Operations,,"Platform data handling functions related to security, data authentication, encryption, compression, machine learning and artificial intelligence;"
+53,Medior Data Engineer,InnSpire,€5.000 - €9.000 per maand,"Data modellering (in R) en het ontsluiten van data uit databases, data warehouses en data lakes door middel van API’s en ETL tooling als Elastic, Airflow,…"
+54,DevOps Engineer,Quin,€85.000 per jaar,"You’ll work closely with our product teams, AI specialists, and data scientists in a true microservice fashion.Full-time / Part-time · Amsterdam."
+55,nieuwData Engineer,EY,,"Daarbij komen alle mogelijke facetten van data & analytics bij kijken: Denk aan data engineering, dashboarding, process mining, data science, machine learning,…"
+56,nieuwNOC Engineer,Castor Networks,,"As a NOC Engineer you monitor and manage all production systems and services, taking steps to improve performance, reliability or uptime."
+57,Data Engineer,Hot ITem,,"We hebben het hele spectrum van het Artificial Intelligence werkveld in huis; business consultancy, data science en big data engineering."
+58,Senior Data Engineer,Tiqets,,"Take ownership of large production data systems to support a variety of growing data needs.Deep knowledge of SQL fundamentals, and solid understanding of best…"
+59,Bioinformatician / Data engineer for data-integration in onc...,NKI-AVL,€36 per uur,We are looking for a bioinformatician or a data engineer with a strong interest in software development & operations (DevOps) to facilitate data-integration in…
+60,Data Engineer,Hot ITem,,"We hebben het hele spectrum van het Artificial Intelligence werkveld in huis; business consultancy, data science en big data engineering."
+61,Data Engineer,Lemonade Insurance Company,,"At least 3 years of experience in data engineering in the big data domain.Experience building and optimizing data pipelines, architecture, and data sets."
+62,Data Engineer,Miele-X,,At least 5 years experience as a data engineer.Good knowledge of data warehousing.Good knowledge of data engineering standards.
+63,Data Analyst,Θέσεις Εργασίας,,The ideal candidate is strong in their craft and is experienced in using data to create insights for stakeholders across various functions such as big data and…
+64,Traineeship Data Engineer,Capgemini,,Heb jij passie voor werken met data en ben je klaar voor een knallende start van je carrière?Je ontwikkelt streaming en/of batch processen om data te…
+65,nieuwData Scientist,APG,€5.956 per maand,"Doorontwikkelen van de data science capability.Deze multidisciplinaire product teams bevatten afhankelijk van het product engineers, testers, metadata…"
+66,Data Engineer,De Nederlandsche Bank,€3.300 - €5.500 per maand,Als Data engineer lever je een bijdrage aan de implementatie van nieuwe datamodellen en functionaliteit om de data te kunnen bewerken.
+67,Data QA Engineer,VanMoof,,Providing a high level of data quality awareness across multiple staff profiles e.g. data engineers and data analysis from teams across the company.
+68,CE Electrical Engineer,Microsoft,,"Empower a culture of safety, security, and compliance in all aspect of data center activities.Work with commissioning teams to properly test and validate…"
+69,DATA ENGINEER,Harnham,€60.000 - €70.000 per jaar,"Be able to communicate and collaborate with other data engineers, data analysts, and non-technical stakeholders."
+70,Senior Data Engineer,APG,€7.220 per maand,Ten minste vijf jaar aantoonbare werkervaring met data modelling en data querying.In deze functie richt je je vooral op de ontwikkeling van data pipelines voor…
+71,User Interface Engineer,RIPE NCC,€43.800 - €63.100 per jaar,You’ll be involved in developing informational systems for the benefit of the Internet community.37.5 hours per week on a full-time basis.
+72,Network Engineer,Optiver,,"Build new connectivity between our data centers.Optiver's bespoke infrastructure requires diverse network engineering experience: from low-latency, data centre…"
+73,nieuwSr Tech Support Engineer,ServiceNow,,"For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have…"
+74,Data Architect,Atradius,,"Demonstrable knowledge of data architecture, data design techniques and various data platform solutions.Guide engineers and external partners on following the…"
+75,International Trainee - Data Scientist,Vattenfall,,The sub-team you will be working in consists of data scientists and data engineers with a strong knowledge of our customers and the energy market.
+76,Data Scientists - FinTech - 100% Remote,Inter Quest Talent Solutions,€40.000 - €80.000 per jaar,"Fill the gaps in the data to make right assumptions about the data.As a data scientist, you ‘re working in a team of engineers, product managers and scientists…"
+77,Senior Data Engineer,Independer,,"Optimalisatie van slimme data oplossingen – Dit gaat bijvoorbeeld om oplossingen om data op klantniveau op allerlei manieren samen te kunnen brengen, maar ook…"
+78,Network Reliability Engineer (Backbone team),Veepee,,"At least 3 years of experience as a system and network engineer;Their main areas of intervention are internet connectivity, MPLS L3&L2 transport across all…"
+79,nieuwJunior Frontend Engineer,Secfi,,"Collaborate with back-end engineers in architecting and consuming APIs.Use experiments, data and user feedback to improve our web-application to be fast, easy…"
+80,Data engineer (SQL / Python / AWS / Paas),Apollo IT,,2+ years of experience as a data engineer in a complex and innovative environment.You deal with 1+ billion rows of data.You develop with Python and SQL.
+81,Maintenance Engineer,Timesource,€65.000 per jaar,Ervaring als maintenance engineer in een technische werkomgeving.Installaties worden onderzocht met data analyse en technisch inhoudelijke analyses zoals RCA…
+82,Data Engineer,Darwin Recruitment,€60.000 - €80.000 per jaar,Translating business logic and ideas into manageable data architecture with data governance as an integral part of the design.
+83,"Program Manager, Design Field Integration and Assembly",Google,,Understanding of data center design and build.Manage data and design changes to products through MES for design and construction software.
+84,Data Engineer Internship - Amsterdam 2022,Amzn Dev Ctr (Netherlands) B.V,,"Monitor and troubleshoot operational or data issues in the data pipelines.Experience with data mining, data warehouse solutions, and ETL."
+85,DATA ENGINEER,Harnham,€60.000 - €70.000 per jaar,"Be able to communicate and collaborate with other data engineers, data analysts, and non-technical stakeholders."
+86,nieuwData Engineer,Search X Recruitment,€50.000 - €65.000 per jaar,"Of course, someone will have to develop those models and data pipelines first.And when that data model is developed and starts producing results, someone will…"
+87,Regional Head of Data Center Public Affairs,Google,,Experience with working in Europe in the data center industry.Bachelor’s degree or equivalent practical experience.
+88,Data Security Engineer,ITSync,,Experience with solutions/data engineering in a security operations environment.Thus improving the security of ING by making sure external data is leveraged…
+89,Network Engineer,Optiver,,"Build new connectivity between our data centers.Optiver's bespoke infrastructure requires diverse network engineering experience: from low-latency, data centre…"
+90,Data Engineer,amsterdam&partners,,"Je zet ruwe data om in waardevolle data-subsets voor onze analisten;Je houdt je onder andere bezig met het beheer van onze data warehouse, databases en data…"
+91,Data Center Services Engineer,Kyndryl,,"If you have applied for an IBM role previously, you will be able to log into the candidate zone using your previous IBM log in details."
+92,Engineer AVEVA AIM & Data Structuring,Cognizant Technology Solutions,,"You must be able to do the data structuring, tag management and should be able to integrate the Engineering data in AVEVA AIM.25 days of paid holiday per year."
+93,Data Engineer (12 month FTC),Abcam,,Build and maintain data sources for data visualisation tools and educate and support business users to self-service their reporting needs.
+94,Regional Head of Data Center Public Affairs,Google,,Experience with working in Europe in the data center industry.Bachelor’s degree or equivalent practical experience.
+95,Data Scientists - FinTech - 100% Remote,Inter Quest Talent Solutions,€40.000 - €80.000 per jaar,"Fill the gaps in the data to make right assumptions about the data.As a data scientist, you ‘re working in a team of engineers, product managers and scientists…"
+96,Data Engineer Consultant,Accenture,,"3+ years of professional experience in creating and maintaining data pipeline architectures, identify data related process improvements and build tools that…"
+97,Data Engineer,Sentia,,Are you the one that creates the needed scripts and API calls to gather the data into a data lake; and builds report or dashboards to help out your colleagues?
+98,Data Engineer,Sam Media,,Work with data analysts and data scientists to strive for greater functionality of our data systems.Improve our data ingestion platforms.
+99,Business Solution Engineer,APG,€7.223 per maand,"Sterke affiniteit met data visualisatie en analyse tooling zoals Python, R, Alteryx en Qlik Sense.Met meer dan 600 miljard Euro die Assets Management onder…"
+100,Logistics Data Program Manager,Google,,Develop and execute root cause remediation strategies for data issues.Resolve process and data issues for the organization and partners.
+101,data engineer,citizenM,,"Demonstrated strength in data modeling, ETL development, MLOps, data warehousing, data pipeline and data lake creation, preferably in the Azure data stack …"
+102,nieuwJunior Frontend Engineer,Secfi,,"Collaborate with back-end engineers in architecting and consuming APIs.Use experiments, data and user feedback to improve our web-application to be fast, easy…"
+103,Material Master Data Specialist,EVBox,,Ensure data integrity by developing and executing necessary processes and controls around the flow of data.You will work on to set up material master data in…
+104,nieuwNOC Engineer,Castor Networks,,"As a NOC Engineer you monitor and manage all production systems and services, taking steps to improve performance, reliability or uptime."
+105,Junior Data Warehouse Engineer,Just eat Takeaway.com,,"1+ year experience in handling big data pipelines, data warehouses or other (preferably distributed) data stores."
+106,Group Data Engineer,Stage Entertainment,,"Act as point of contact with other data-oriented functions (e.g., CRM, digital marketing) to share data and ensure campaign response data is being socialized…"
+107,Data Engineer,Building Heroes,,Je hebt interesse in data en programmeren;Je werkt afhankelijk van je ambitie ook aan het bouwen van het hiervoor beste systeem wat bij deze processen…
+108,Data Engineer,Heineken,,"Het onderhouden en ontwikkelen van data platforms, datastromen, informatieproducten en andere data solutions.Je bent 40 uur per week beschikbaar."
+109,Senior Data Engineer,WeTransfer,,"Design reliable data ingestion and transform pipelines that can handle large data volumes.Build and maintain our observability data stack, so data is delivered…"
+110,Data Engineer,Rabobank,€38.532 - €63.648 per jaar,Het naar productie brengen van data en analytics producten.In het projectteam denk je mee over data architectuur vraagstukken en help je bij het ontwerpen van…
+111,nieuwProduct Owner Data,Decathlon,,"Translating those business questions into concrete and workable data-solutions, such as dashboards or forecasting models, is the starting point for the rest of…"
+112,Dé ICT baan voor starters,APG,€3.250 per maand,"Als startend ICT’er krijg je dan ook uitdagende werkzaamheden; van Testing tot Cloud services, van support tot architectuur."
+113,Data Engineer (met Cloud ervaring),Omoda,,Samen met 4 collega’s werk je er dagelijks aan om inzichten uit de data te krijgen.Een werkplek in onze data hub in Amsterdam en/of het HQ in Zierikzee.
+114,"Technical Program Manager, Data Center Construction",Google,,"The Data Center Delivery and Engineering team is a collection of architectural design experts, mechanical engineers, electrical engineers, construction project…"
+115,Data Engineer,Blue Harvest,,Experience with cloud-based data services.Exposure to data quality frameworks and error management.Knowledge of Metadata concepts and Metadata-driven data…
+116,Security Engineer,Orange Cyberdefense Nederland,,"Ervaring op één of meer van de volgende gebieden: NGFW and secure application delivery, campus en datacenter networking, cloud security, endpoint protection,…"
+117,Electrical Engineer,PARKEAGLE,,You will work with other hardware and software engineers throughout the software development lifecycle.Parkeagle is looking for an Electrical Engineer to fill…
+118,Senior Data Engineer,Tiqets,,"Take ownership of large production data systems to support a variety of growing data needs.Deep knowledge of SQL fundamentals, and solid understanding of best…"
+119,Senior Data Engineer,Independer,,"Optimalisatie van slimme data oplossingen – Dit gaat bijvoorbeeld om oplossingen om data op klantniveau op allerlei manieren samen te kunnen brengen, maar ook…"
+120,"Customer Engineer, Data Analytics (Part-time)",Google,,"Experience with analytic warehouse solutions and data movement from data stores into analytic warehouses.Experience developing data warehousing, data lakes,…"
+121,Technical Project Manager,Disney Streaming,,"Excellent communication and data presentation skills, including an ability to effectively communicate with both business and technical teams."
+122,Senior Artificial Intelligence Engineer / Data scientist,ABN AMRO Bank,,"Our AI developers are multi-skilled and have strong machine learning, system design and coding skills that they put to use within the context of AI."
+123,nieuwReliability Engineer,Givaudan,,Analyzing: with your excellent SAP and Excel skills you collect and analyze reliability performance data in order to prioritize maintenance and investments.
+124,nieuwInfrastructure Solution Engineer,ViaSat,,"Knowledge of data center structured cabling and rack elevations.The primary role will be to design, plan and lead integration efforts in an automation first…"
+125,Data Scientist - QuantumBlack,McKinsey & Company,,You will work on the frameworks and libraries that our teams of data scientists and data engineers use to progress from data to impact.
+126,Data Platforms Devops Engineer,Liberty Global,,"Integrate new data sources as well as support existing integrations on data stream platforms.Participate in the design, development and support of a real time…"
+127,Data Engineer (m/v) 362,Greenmonkeys,€2.500 - €4.500 per maand,"Je rol is hierin breed, maar primair gericht op data.Voor een innoverende opdrachtgever in Hilversum zoekt Greenmonkeys B.V. een Data Engineer (m/v).*."
+128,Data Engineer,Heineken,,"Het onderhouden en ontwikkelen van data platforms, datastromen, informatieproducten en andere data solutions.Je bent 40 uur per week beschikbaar."
+129,Identity and Access Management Engineer,Optiver,,"No two days are the same as you will fix a variety of incidents, solve ad-hoc technical problems, monitor performance and manage data reliant systems that are…"
+130,System and Network Engineer,BlockTech,,"Work closely with our traders, engineers and quantitative developers to identify and solve issues that arise;Replace laptops, desktops and phones;"
+131,Cloud Engineer Azure,Rabobank,€3.259 - €6.417 per maand,"Building cloud components, designing solutions or working on automation.Growing your knowledge on the complete technology stack (network, security, containers,…"
+132,Threat Intelligence Engineer,Infoblox,,"Coding and data skills such as Python, data analysis and statistics, use of notebooks (Jupyter, Databricks).Use statistics, and scripting in python and pyspark…"
+133,Senior Product Owner Data Science (Operations),Albert Heijn,€76.000 - €95.000 per jaar,"Jij staat daarbij als Senior Data Science Product Owner aan het front van (meerdere) team(s) bestaande uit data analisten, data scientists, data engineers en…"
+134,Senior Data Engineer AWS,Tempo-Team,€80.000 - €95.000 per jaar,Our data engineers integrate and transform the data from the different systems and then load it into our data warehouse.You dare to challenge the status quo.
+135,nieuwJunior Data Engineer- (incl. opleidingsprogramma),Hot ITem,,Jouw rol als (junior) data engineer.In deze fast track word je samen met circa twaalf nieuwe collega’s opgeleid tot Microsoft data engineer die het verschil…
+136,Software Engineer,Optiver,,"To achieve this, our user interfaces must present coherent, responsive, real-time visualisations of market activity and system performance while providing…"
+137,Data Architect,Atradius,,"Demonstrable knowledge of data architecture, data design techniques and various data platform solutions.Guide engineers and external partners on following the…"
+138,QA Engineer,Showpad,,"Experience testing a variety of web services, APIs and data in CI/CD environment.Has 'Automate first' mindset - is meticulous to detail in defining Acceptance…"
+139,Systems Engineer,Sauce Labs Inc.,,"Help build out new data centers around the globe.Install, configure and debug hardware and systems in our data center.Participation in 24x7 on-call rotation."
+140,Senior Data Engineer,Macaw,,"Veel bedrijven zien de toegevoegde waarde van data, maar hebben deze data nog niet goed inzichtelijk.Ook configureer je ETL en Azure Data Factory pipelines en…"
+141,Junior Data Warehouse Engineer,Just eat Takeaway.com,,"1+ year experience in handling big data pipelines, data warehouses or other (preferably distributed) data stores."
+142,nieuwSynthetic Monitoring Cloud Engineer,NN Group,,"You support NN engineers when they get stuck, or have questions, locally and internationally.You understand how self-service and automation help NN engineers…"
+143,Data Engineer,Newcraft Group,,"Ervaring met data warehouses, inclusief de technische architectuur van data warehouses, infrastructuur componenten, ETL/ELT en reporting/analytic tools, eco…"
+144,"Process Engineer, MSAT",Kite Pharma,,Knowledge of data management tools and statistical process controls.As a Process Engineer for Manufacturing Science and Technology (MSAT) you will provide…
+145,Python Data & Machine Learning Engineer,Codebeez,,"Ben je werkzaam in data gedreven omgevingen als Data Engineer, Data Sciencist of Data Analyst, heb je affiniteit met het ontwerpen en bouwen van Data Pipelines…"
+146,Process Engineer Warehousing,Bol.com,€3.500 - €5.250 per maand,Je vertaalt inzichten naar verbeteringen en innovaties.Je werkt user stories uit die de meerwaarde van verbeteringen/innovaties bewijzen.
+147,Data Engineer,Rabobank,€38.532 - €63.648 per jaar,Het naar productie brengen van data en analytics producten.In het projectteam denk je mee over data architectuur vraagstukken en help je bij het ontwerpen van…
+148,Data Engineer,Action,,"Heb je minstens 1 jaar werkervaring als data-engineer.Als data-engineer integreer, transformeer en consolideer je gegevens uit verschillende gestructureerde en…"
+149,nieuwSoftware Engineer – Responsible Investment,APG,€5.484 per maand,"Je hebt minimaal drie jaar werkervaring als full-stack ontwikkelaar, specifiek gericht op data engineering.Je bent pro-actief en een self-starter."
